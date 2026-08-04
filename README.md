@@ -138,7 +138,7 @@ Play Again? [Y/N]:
 
 **Gandla Karthik**
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/gandlakarthik
 
 ---
 
